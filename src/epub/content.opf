@@ -47,7 +47,7 @@
 		<meta property="term" refines="#subject-5">sh85033987</meta>
 		<meta property="schema:genre">Comedy</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A boy’s life at boarding school is disrupted by an uncle that he’s never met before.</dc:abstract>
+		<meta property="schema:abstract">A boy’s life at boarding school is disrupted by an uncle that he’s never met before.</meta>
 		<dc:description>
 			&lt;p&gt;A new term is beginning at Beckford College, and “Bishop” Gethryn seems to have it all: He’s the head prefect of his schoolhouse, a top athlete on both the cricket and rugby teams, and is respected by his schoolmates and the Headmaster. But when his uncle arrives at the school, Gethryn’s world (and that of the school’s cricket team) is upended.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Prefect’s Uncle&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse’s&lt;/a&gt; second novel, and was first published in 1903.&lt;/p&gt;
